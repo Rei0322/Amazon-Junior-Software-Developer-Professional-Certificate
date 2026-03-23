@@ -31,4 +31,4 @@ The project leverages the following design principles:
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/yourusername/java-zoo-management.git](https://github.com/yourusername/java-zoo-management.git)
+   [git clone [https://github.com/yourusername/java-zoo-management.git](https://github.com/yourusername/java-zoo-management.git)](https://github.com/Rei0322/Amazon-Junior-Software-Developer-Professional-Certificate.git)
