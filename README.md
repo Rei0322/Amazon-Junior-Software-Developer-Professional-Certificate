@@ -31,7 +31,7 @@ Through this professional certificate, I have mastered a diverse set of tools an
 
 ## 👨‍💻 About Me
 
-I am an aspiring Software Developer and currently studing at the **University of Phoenix**, during my studies the **Amazon Junior Software Developer Professional Certificate** program. My transition into tech is driven by a passion for solving logical puzzles and building tools that improve user experiences.
+I am an aspiring Software Developer and currently studing at the **University of Phoenix**, in additio to my work in the **Amazon Junior Software Developer Professional Certificate** program. My transition into tech is driven by a passion for solving logical puzzles and building tools that improve user experiences.
 
 With a foundation in **Java** and **SQL**, I specialize in creating clean, maintainable code and scalable database architectures. I am particularly interested in how **Generative AI** can be leveraged to streamline the development lifecycle.
 
